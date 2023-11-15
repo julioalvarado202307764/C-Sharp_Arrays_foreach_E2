@@ -1,5 +1,5 @@
-﻿/*int [] inventory = {200, 450, 700, 175, 250 }; FOREACH UTILIZANDO INT e incremento en uno en la variable bin
-
+﻿/*int [] inventory = {200, 450, 700, 175, 250 }; FOREACH UTILIZANDO INT suma todos los numeros almacenados en inventory e incrementa en uno en la variable bin
+ y tambien suma el primero numero por el segundo y asi hasta llegar al ultimo 200+450 = 650 -> Bin1 = 650
 int sum = 0;
 int bin = 0;
 foreach(int items in inventory){
